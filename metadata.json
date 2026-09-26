@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack",
+  "description": "Smart subscription & recurring bill tracker with spend analytics, renewal alerts, freemium tiers, and multi-user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
